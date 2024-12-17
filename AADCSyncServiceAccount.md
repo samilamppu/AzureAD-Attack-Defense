@@ -2,7 +2,7 @@
 
 _Author: Sami Lamppu and Thomas Naunheim_
 _Created: March 2022_
-_Updated: October 2022 (Added M&TRE mapping)_
+_Updated: December 2024_
 
 - [Abuse of Azure AD Connect Sync Service Account](#abuse-of-azure-ad-connect-sync-service-account)
 - [Introduction](#introduction)
